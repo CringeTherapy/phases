@@ -1,3 +1,3 @@
 # phases
 phases for mac and windows
-(no linux or chromebook lol)
+(chromebooks just have to connect to unity localhost server)
