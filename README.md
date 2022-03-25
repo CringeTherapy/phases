@@ -1,2 +1,2 @@
 # phases
-phases for mac and maybe windows???
+phases for mac and windows
